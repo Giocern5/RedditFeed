@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TinderOnsight</string>
+    <string name="author_text">Author: %s</string>
+    <string name="post_ups">Upvoted: %s</string>
+
+</resources>
